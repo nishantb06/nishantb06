@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tabular Playground Series:10, Kaggle**
 
-- 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b, How to cook**
+- 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b**
 
 - 👯 I’m looking to collaborate on [Ongoing Kaggle-TPS10 Hackathon](https://www.kaggle.com/c/tabular-playground-series-oct-2021)
 
