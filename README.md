@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">Stats, Data Science, Computer Vision</h3>
 
-- 🔭 I’m currently working on **Tabular Playground Series:10, Kaggle**
+- 🔭 I’m currently working on **Pawpularity Prediction, Kaggle**
 
 - 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b**
 
-- 👯 I’m looking to collaborate on [Ongoing Kaggle-TPS10 Hackathon](https://www.kaggle.com/c/tabular-playground-series-oct-2021)
+- 👯 I’m looking to collaborate on Nohthing at the moment
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
