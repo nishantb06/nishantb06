@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b**
 
-- 👯 I’m looking to collaborate on Nohthing at the moment
+- 👯 I’m looking to collaborate on Nothing at the moment
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
@@ -21,9 +21,6 @@
 
 - ⚡ Books I'm reading right now **Practical Stats For Data Scientists, Statistical Rethinking**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
