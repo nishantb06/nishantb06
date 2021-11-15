@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/nishantb06)
 
-- 📝 I regularly write articles on [Notion BlogSpace](https://early-emperor-472.notion.site/BlogSpace-19f1d6c0b2ab44b29763e2391b9cfa26) and [Medium](https://medium.com/@nishantbhansali80)
-
 - 💬 Areas of Interest **Data Science, Computer Vision, Continual Learning**
 
 - 📫 How to reach me **nbhansali06@gmail.com**
