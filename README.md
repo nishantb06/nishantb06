@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nishantb06](https://github.com/nishantb06)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/nishantb06)
 
-- 📝 I regularly write articles on [https://early-emperor-472.notion.site/BlogSpace-19f1d6c0b2ab44b29763e2391b9cfa26](https://early-emperor-472.notion.site/BlogSpace-19f1d6c0b2ab44b29763e2391b9cfa26)
+- 📝 I regularly write articles on [Notion BlogSpace](https://early-emperor-472.notion.site/BlogSpace-19f1d6c0b2ab44b29763e2391b9cfa26) and [Medium](https://medium.com/@nishantbhansali80)
 
 - 💬 Areas of Interest **Data Science, Computer Vision, Continual Learning**
 
 - 📫 How to reach me **nbhansali06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10BRk_Hb7Cf2PJz-DXT0q-dRHuIB5DXKc/view](https://drive.google.com/file/d/10BRk_Hb7Cf2PJz-DXT0q-dRHuIB5DXKc/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10BRk_Hb7Cf2PJz-DXT0q-dRHuIB5DXKc/view)
 
 - ⚡ Books I'm reading right now **Practical Stats For Data Scientists, Statistical Rethinking**
 
