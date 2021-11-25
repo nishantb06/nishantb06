@@ -1,6 +1,28 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I'm Nishant
 <h3 align="left">Stats, Data Science, Computer Vision</h3>
 
+<a href="https://linkedin.com/in/nishantbhansali/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/itsnishant14">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://kaggle.com/nishantbhansali">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"  />
+</a
+<a href="mailto:nbhansali06@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<!--
+<a href="https://www.youtube.com/channel/UCBGOUQHNNtNGcGzVq5rIXjw">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+-->
+<a href="https://medium.com/@nishantbhansali80">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<br />
+
 - 🔭 I’m currently working on **Pawpularity Prediction, Kaggle**
 
 - 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b**
