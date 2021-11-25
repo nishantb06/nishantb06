@@ -1,5 +1,8 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I'm Nishant
+
 <h3 align="left">Stats, Data Science, Computer Vision</h3>
+
+---
 
 <a href="https://linkedin.com/in/nishantbhansali/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
