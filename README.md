@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<h3 align="center">Stats, Data Science, Computer Vision</h3>
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,I'm Nishant
+<h3 align="left">Stats, Data Science, Computer Vision</h3>
 
 - 🔭 I’m currently working on **Pawpularity Prediction, Kaggle**
 
