@@ -9,7 +9,7 @@
 </a>
 <a href="https://kaggle.com/nishantbhansali">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"  />
-</a
+</a>
 <a href="mailto:nbhansali06@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
