@@ -26,7 +26,7 @@
 </a>
 <br />
 
-- 🔭 I’m currently working on **Pawpularity Prediction, Kaggle**
+- 🔭 I’m currently working on **DETR, End to End object Detection with Transformers**
 
 - 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b**
 
@@ -36,7 +36,7 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://github.com/nishantb06)
 
-- 💬 Areas of Interest **Data Science, Computer Vision, Continual Learning**
+- 💬 Areas of Interest **Data Science, Computer Vision, Image Processing**
 
 - 📫 How to reach me **nbhansali06@gmail.com**
 
