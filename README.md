@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on **DETR, End to End object Detection with Transformers**
 
-- 🌱 I’m currently learning **Manim-Mathematical Animation library by 3b1b**
+- 🌱 I’m currently learning **Pytorch-Ignite**
 
 - 👯 I’m looking to collaborate on Nothing at the moment
 
