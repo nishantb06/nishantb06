@@ -40,8 +40,6 @@
 
 - 📫 How to reach me **nbhansali06@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1o3Qu7Es4DshM8KrTwN-1hDzod1MVYmCA/view?usp=sharing)
-
 - ⚡ Books I'm reading right now **Practical Stats For Data Scientists, Statistical Rethinking**
 
 <!--
