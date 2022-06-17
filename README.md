@@ -26,7 +26,7 @@
 </a>
 <br />
 
-- 🔭 I’m currently working on **DETR, End to End object Detection with Transformers**
+- 🔭 I’m currently working on **Kaggle- UWMIS:GI Tract Image Segmentation Competiton**
 
 - 🌱 I’m currently learning **Pytorch-Ignite**
 
@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **nbhansali06@gmail.com**
 
-- ⚡ Books I'm reading right now **Practical Stats For Data Scientists, Statistical Rethinking**
+- ⚡ Books I'm reading right now 
 
 <!--
 <h3 align="left">Connect with me:</h3>
