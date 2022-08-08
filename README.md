@@ -26,9 +26,9 @@
 </a>
 <br />
 
-- 🔭 I’m currently working on **Kaggle- UWMIS:GI Tract Image Segmentation Competiton**
+- 🔭 I’m currently working on **Kaggle- HubMap-Hpa Medical Image Segmentation**
 
-- 🌱 I’m currently learning **Pytorch-Ignite**
+- 🌱 I’m currently learning **Pytorch-Lightning**
 
 - 👯 I’m looking to collaborate on Nothing at the moment
 
