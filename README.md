@@ -26,21 +26,21 @@
 </a>
 <br />
 
-# - 🔭 I’m currently working on **Kaggle- HubMap-Hpa Medical Image Segmentation**
+- 🔭 I’m currently working on **Kaggle- HubMap-Hpa Medical Image Segmentation**
 
-# - 🌱 I’m currently learning **Pytorch-Lightning**
+- 🌱 I’m currently learning **Pytorch-Lightning**
 
-# - 👯 I’m looking to collaborate on Nothing at the moment
+- 👯 I’m looking to collaborate on Nothing at the moment
 
-# - 🤝 I’m looking for help with **Nothing at the moment**
+- 🤝 I’m looking for help with **Nothing at the moment**
 
-# - 👨‍💻 All of my projects are available on [Github](https://github.com/nishantb06)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/nishantb06)
 
-# - 💬 Areas of Interest **Data Science, Computer Vision, Image Processing**
+- 💬 Areas of Interest **Data Science, Computer Vision, Image Processing**
 
-# - 📫 How to reach me **nbhansali06@gmail.com**
+- 📫 How to reach me **nbhansali06@gmail.com**
 
-# - ⚡ Books I'm reading right now 
+- ⚡ Books I'm reading right now 
 
 <!--
 <h3 align="left">Connect with me:</h3>
