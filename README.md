@@ -7,9 +7,9 @@
 <a href="https://linkedin.com/in/nishantbhansali/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/itsnishant14">
+<!-- <a href="https://twitter.com/itsnishant14">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> -->
 <a href="https://kaggle.com/nishantbhansali">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg"  />
 </a>
