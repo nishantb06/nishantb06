@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Pytorch-Lightning**
  -->
-- 👯 I’m looking to collaborate on Nothing at the moment
+<!-- - 👯 I’m looking to collaborate on Nothing at the moment
 
 - 🤝 I’m looking for help with **Nothing at the moment**
 
@@ -38,7 +38,7 @@
 
 - 💬 Areas of Interest **Data Science, Computer Vision, Image Processing**
 
-- 📫 How to reach me **nbhansali06@gmail.com**
+- 📫 How to reach me **nbhansali06@gmail.com** -->
 <!-- 
 - ⚡ Books I'm reading right now  -->
 
